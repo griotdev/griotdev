@@ -10,4 +10,6 @@ Cursando Ciência da Computação na Universidade Estadual de Londrina<br>Fã do
 
 [![](https://visitcount.itsvg.in/api?id=griotdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Corinthians]([https://media.tenor.com/57mc9TmwqWEAAAAj/corinthians.gif])
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
